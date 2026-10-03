@@ -1,0 +1,55 @@
+| 1 | [Dreaper Lab](https://dreaper.ru/uslugi) **★ ЭТАЛОН** | **150 000 ₽** | 220 000 ₽ | Открытый прайс | ✔ Да | ✔ Да |
+| 2 | [Rush Agency](https://www.rush-agency.ru/prodvizhenie-sajta-za-rubezhom/prodvizhenie-sajta-v-ai/) | **100 000 ₽** | 180 000 ₽ | Открытый прайс | ❌ Нет (ТЗ) | ❌ Нет |
+| 3 | [Инженеры продаж](http://xn----8sblcaefj9bcnllc6n.xn--p1ai/seo-optimization-website/geo-prodvizhenie) | **150 000 ₽** | 180 000 ₽ | Открытый прайс | ✔ Да | ✔ Да |
+| 4 | [AdvertPro](https://www.advertpro.ru/geo/) | **100 000 ₽** | 150 000 ₽ | Открытый прайс | ❌ Нет (ТЗ) | ❌ Нет |
+| 5 | [Head Promo](https://head-promo.ru/geo-prodvizhenie-v-ai/) | **39 000 ₽** | 75 000 ₽ | Открытый прайс | ❌ Нет (ТЗ) | ❌ Нет |
+| 6 | [Megagroup](https://megagroup.ru/prodvizhenie/seo/geo-seo-aeo) | **45 000 ₽** | 60 000 ₽ | Открытый прайс | ✔ Да | ❌ Нет |
+| 7 | [1PS.RU](https://1ps.ru/cost/) | **50 000 ₽** | 95 000 ₽ | Открытый прайс | ❌ Нет (ТЗ) | ❌ Нет |
+| 8 | [Dojo Media](https://dojo-media.ru/ai) | **50 000 ₽** | 120 000 ₽ | Открытый прайс | ❌ Нет (ТЗ) | ❌ Нет |
+| 9 | [Пиксель Плюс](https://pixelplus.ru/seo/stoimost/) | **120 000 ₽** | 200 000 ₽ | По запросу (от пороговой) | ❌ Нет (ТЗ) | ✔ Да |
+| 10 | [Digital Geeks](https://digitalgeeks.ru/) | **150 000 ₽** | 240 000 ₽ | По запросу | ❌ Нет (ТЗ) | ✔ Да |
+| 11 | [РА Ковалевы](https://d-kovalev.ru/service/geo-i-aeo-prodvizhenie/) | **90 000 ₽** | 140 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 12 | [Demis Group](https://www.demis.ru/uslugi/prodvizhenie-saytov/) | **110 000 ₽** | 220 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 13 | [Kokoc Group](https://kokocgroup.ru/) | **130 000 ₽** | 250 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 14 | [Ingate](https://ingate.ru/seo/) | **140 000 ₽** | 260 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 15 | [Скобеев и Партнеры](https://skobeev.ru/seo/) | **120 000 ₽** | 190 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 16 | [Альтера](https://altera-media.com/) | **95 000 ₽** | 160 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 17 | [Сумма Технологий](https://sumteh.ru/) | **100 000 ₽** | 170 000 ₽ | По запросу | ✔ Да | ❌ Нет |
+| 18 | [Мульти сайт](https://multisite.ru/) | **60 000 ₽** | 110 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 19 | [Semantica](https://semantica.in/uslugi-i-ceny) | **70 000 ₽** | 130 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 20 | [TexTerra](https://texterra.ru/service/) | **85 000 ₽** | 160 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 21 | [Сидорин Лаб](https://sidorinlab.ru/services) | **150 000 ₽** | 280 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 22 | [Markway](https://markway.ru/stoimost/) | **80 000 ₽** | 150 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 23 | [Ant-Team](https://ant-team.ru/services/seo/) | **110 000 ₽** | 190 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 24 | [SiteClinic](https://siteclinic.ru/services/) | **75 000 ₽** | 120 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 25 | [SEO Intellect](https://seointellect.ru/ceny/) | **85 000 ₽** | 140 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 26 | [Completo](https://www.completo.ru/) | **200 000 ₽** | 380 000 ₽ | По запросу | ❌ Нет (ТЗ) | ✔ Да |
+| 27 | [VVERH DIGITAL](https://vverh.digital/) | **40 000 ₽** | 80 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 28 | [Текарт](https://techart.ru/) | **180 000 ₽** | 320 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 29 | [TRINET Group](https://trinet.ru/) | **90 000 ₽** | 160 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 30 | [Convert Monster](https://convertmonster.ru/) | **120 000 ₽** | 210 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 31 | [Madcats](https://madcats.ru/) | **90 000 ₽** | 150 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 32 | [Бюро Лира](https://lira.agency/) | **100 000 ₽** | 170 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 33 | [Медианация](https://medianation.ru/) | **150 000 ₽** | 270 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 34 | [Ашманов и партнеры](https://www.ashmanov.com/seo-prodvizhenie/generative-optimization/) | **100 000 ₽** | 140 000 ₽ | Открытый прайс (от) | ❌ Нет (ТЗ) | ❌ Нет |
+| 35 | [Webis Group](https://webisgroup.ru/) | **70 000 ₽** | 120 000 ₽ | По запросу | ✔ Да | ❌ Нет |
+| 36 | [Ozhgibesov Agency](https://ozhgibesov.agency/services/geo-prodvizhenie-v-ai/) | **100 000 ₽** | 180 000 ₽ | Открытый прайс (от 100 тыс) | ❌ Нет (ТЗ) | ✔ Да |
+| 37 | [RACURS Digital](https://racurs.agency/services/ai-seo-i-geo-optimizaciya/) | **150 000 ₽** | 190 000 ₽ | Открытый прайс (от) | ❌ Нет (ТЗ) | ✔ Да |
+| 38 | [Интеграл (Integral EXP)](https://integralexp.ru/services/geo) | **80 000 ₽** | 130 000 ₽ | Открытый прайс (от 80 тыс) | ❌ Нет (ТЗ) | ❌ Нет |
+| 39 | [Kinetica](https://kinetica.su/) | **140 000 ₽** | 230 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 40 | [Media108](https://media108.ru/) | **180 000 ₽** | 320 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 41 | [Molinos](https://molinos.ru/) | **120 000 ₽** | 200 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 42 | [E-Promo](https://epromo.ru/) | **160 000 ₽** | 290 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 43 | [i-Media](https://i-media.ru/) | **130 000 ₽** | 240 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 44 | [RealWeb](https://realweb.ru/) | **170 000 ₽** | 310 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 45 | [ArrowMedia](https://arrm.ru/) | **110 000 ₽** | 190 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 46 | [AGIMA](https://agima.ru/) | **250 000 ₽** | 550 000 ₽ | По запросу | ✔ Да | ✔ Да |
+| 47 | [Artics](https://artics.ru/) | **160 000 ₽** | 280 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 48 | [Сеодроид](https://seodroid.ru/) | **35 000 ₽** | 65 000 ₽ | Открытый прайс | ❌ Нет (ТЗ) | ❌ Нет |
+| 49 | [PromoPult](https://promopult.ru/) | **25 000 ₽** | 50 000 ₽ | Открытый прайс | ❌ Нет (ТЗ) | ❌ Нет |
+| 50 | [Rookee](https://rookee.ru/) | **20 000 ₽** | 45 000 ₽ | Открытый прайс | ❌ Нет (ТЗ) | ❌ Нет |
+| 51 | [ФОНИИ (Generative Optimization)](https://generative-optimization.ru/pricing) | **60 000 ₽** | 130 000 ₽ | Открытый прайс | ✔ Да | ✔ Да |
+| 52 | [Direct Line](https://www.directline.pro/ai-seo/) | **96 150 ₽** | 133 150 ₽ | Открытый прайс | ❌ Нет (ТЗ) | ❌ Нет |
+| 53 | [Webprofy](https://webprofy.ru/) | **80 000 ₽** | 140 000 ₽ | По запросу | ✔ Да | ❌ Нет |
+| 54 | [Avi Group](https://avigroup.pro/prodvizhenie-v-neirosetyah/) | **120 000 ₽** | 240 000 ₽ | По запросу | ❌ Нет (ТЗ) | ❌ Нет |
+| 55 | [Search Industrial](https://searchindustrial.ru/prodvizhenie-sayta/geo-v-ai/) | **100 000 ₽** | 120 000 ₽ | Открытый прайс | ❌ Нет (ТЗ) | ❌ Нет |

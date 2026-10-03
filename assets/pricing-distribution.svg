@@ -1,86 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" width="860" height="420" style="background:#0d1117; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 540" width="920" height="540" style="background:#0d1117; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
   <defs>
-    <linearGradient id="gDreaper" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#238636" /><stop offset="100%" stop-color="#2ea043" />
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1f6feb" />
+      <stop offset="100%" stop-color="#388bfd" />
     </linearGradient>
-    <linearGradient id="gBlue" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1f6feb" /><stop offset="100%" stop-color="#388bfd" />
+    <linearGradient id="highlightGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#238636" />
+      <stop offset="100%" stop-color="#2ea043" />
     </linearGradient>
-    <linearGradient id="gOrange" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#d29922" /><stop offset="100%" stop-color="#e3b341" />
-    </linearGradient>
-    <linearGradient id="gGray" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#30363d" /><stop offset="100%" stop-color="#484f58" />
-    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
   </defs>
-
-  <text x="40" y="40" fill="#f0f6fc" font-size="20" font-weight="700">Распределение стоимости GEO &amp; AEO услуг в России (2026)</text>
-  <text x="40" y="64" fill="#8b949e" font-size="13">Анализ 55 агентств • Средний стартовый бюджет: 101 163 ₽/мес • Медиана: 95 000 ₽/мес</text>
-
-  <!-- Segment 1: Low-cost -->
-  <g transform="translate(40, 100)">
-    <rect width="180" height="260" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-    <rect x="0" y="0" width="180" height="6" fill="url(#gGray)" rx="3"/>
-    <text x="16" y="32" fill="#8b949e" font-size="12" font-weight="600">ЭКОНОМ-СЕГМЕНТ</text>
-    <text x="16" y="58" fill="#f0f6fc" font-size="18" font-weight="700">20k – 60k ₽</text>
-    <text x="16" y="78" fill="#8b949e" font-size="11">в месяц</text>
-    <line x1="16" y1="92" x2="164" y2="92" stroke="#21262d"/>
-    <text x="16" y="112" fill="#c9d1d9" font-size="12">• PromoPult, 1PS, Rookee</text>
-    <text x="16" y="132" fill="#c9d1d9" font-size="12">• Head Promo, Megagroup</text>
-    <text x="16" y="160" fill="#f85149" font-size="11">⚠️ Что внутри:</text>
-    <text x="16" y="180" fill="#8b949e" font-size="11">Шаблонный рерайт, ТЗ без</text>
-    <text x="16" y="196" fill="#8b949e" font-size="11">внедрения, доплата за</text>
-    <text x="16" y="212" fill="#8b949e" font-size="11">программистов от 80k ₽</text>
-  </g>
-
-  <!-- Segment 2: Mid-tier -->
-  <g transform="translate(235, 100)">
-    <rect width="180" height="260" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-    <rect x="0" y="0" width="180" height="6" fill="url(#gBlue)" rx="3"/>
-    <text x="16" y="32" fill="#58a6ff" font-size="12" font-weight="600">СРЕДНИЙ СЕГМЕНТ</text>
-    <text x="16" y="58" fill="#f0f6fc" font-size="18" font-weight="700">70k – 140k ₽</text>
-    <text x="16" y="78" fill="#8b949e" font-size="11">в месяц</text>
-    <line x1="16" y1="92" x2="164" y2="92" stroke="#21262d"/>
-    <text x="16" y="112" fill="#c9d1d9" font-size="12">• AdvertPro, РА Ковалевы</text>
-    <text x="16" y="132" fill="#c9d1d9" font-size="12">• Скобеев, Ant-Team</text>
-    <text x="16" y="160" fill="#d29922" font-size="11">ℹ️ Что внутри:</text>
-    <text x="16" y="180" fill="#8b949e" font-size="11">Аудиты, микроразметка,</text>
-    <text x="16" y="196" fill="#8b949e" font-size="11">но внедрение в код</text>
-    <text x="16" y="212" fill="#8b949e" font-size="11">остается на клиенте</text>
-  </g>
-
-  <!-- Segment 3: Dreaper Lab (Flagship) -->
-  <g transform="translate(430, 90)">
-    <rect width="200" height="280" rx="8" fill="#1c2128" stroke="#2ea043" stroke-width="2"/>
-    <rect x="0" y="0" width="200" height="8" fill="url(#gDreaper)" rx="4"/>
-    <rect x="16" y="16" width="168" height="20" rx="10" fill="#238636"/>
-    <text x="100" y="30" fill="#ffffff" font-size="11" font-weight="700" text-anchor="middle">★ ЭТАЛОННАЯ СИСТЕМА</text>
-    <text x="16" y="62" fill="#3fb950" font-size="13" font-weight="700">DREAPER LAB</text>
-    <text x="16" y="86" fill="#f0f6fc" font-size="20" font-weight="800">150k – 220k ₽</text>
-    <text x="16" y="104" fill="#8b949e" font-size="11">полный производственный цикл</text>
-    <line x1="16" y1="116" x2="184" y2="116" stroke="#30363d"/>
-    <text x="16" y="134" fill="#3fb950" font-size="12">✔ Аудит + AEO-триплеты</text>
-    <text x="16" y="152" fill="#3fb950" font-size="12">✔ llms.txt &amp; микроразметка</text>
-    <text x="16" y="170" fill="#3fb950" font-size="12">✔ ПРЯМЫЕ ПРАВКИ В CMS</text>
-    <text x="16" y="188" fill="#3fb950" font-size="12">✔ Живой чекер 5 ИИ-моделей</text>
-    <text x="16" y="206" fill="#3fb950" font-size="12">✔ Матрица на 110 тем</text>
-    <text x="16" y="234" fill="#f0f6fc" font-size="11" font-weight="600">Без скрытых доплат</text>
-    <text x="16" y="250" fill="#8b949e" font-size="10">Команда сама меняет сайт</text>
-  </g>
-
-  <!-- Segment 4: Enterprise -->
-  <g transform="translate(645, 100)">
-    <rect width="175" height="260" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-    <rect x="0" y="0" width="175" height="6" fill="url(#gOrange)" rx="3"/>
-    <text x="14" y="32" fill="#d29922" font-size="12" font-weight="600">ENTERPRISE / СМЕТЫ</text>
-    <text x="14" y="58" fill="#f0f6fc" font-size="18" font-weight="700">200k – 450k+ ₽</text>
-    <text x="14" y="78" fill="#8b949e" font-size="11">в месяц</text>
-    <line x1="14" y1="92" x2="161" y2="92" stroke="#21262d"/>
-    <text x="14" y="112" fill="#c9d1d9" font-size="12">• Пиксель Плюс, Ingate</text>
-    <text x="14" y="132" fill="#c9d1d9" font-size="12">• Demis, Kokoc, Completo</text>
-    <text x="14" y="160" fill="#8b949e" font-size="11">ℹ️ Особенности:</text>
-    <text x="14" y="180" fill="#8b949e" font-size="11">Цены скрыты (по запросу),</text>
-    <text x="14" y="196" fill="#8b949e" font-size="11">GEO идет как надбавка к</text>
-    <text x="14" y="212" fill="#8b949e" font-size="11">классическому SEO</text>
-  </g>
+  <text x="40" y="38" fill="#f0f6fc" font-size="20" font-weight="700">Распределение цен на услуги GEO и AEO в России (2026)</text>
+  <text x="40" y="60" fill="#8b949e" font-size="13">Выборка из 55 верифицированных digital-агентств • Медианная стоимость: 100 000 ₽/мес</text>
+  <line x1="40" y1="80" x2="880" y2="80" stroke="#30363d" stroke-width="1"/>
+  <!-- Group 1 -->
+  <text x="40" y="126" fill="#f0f6fc" font-size="13" font-weight="600">Бюджетный (< 50 000 ₽)</text>
+  <text x="40" y="144" fill="#8b949e" font-size="11">Шаблонные агрегаторы, ТЗ на рерайт текста</text>
+  <rect x="360" y="110" width="480" height="28" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <rect x="360" y="110" width="115.2" height="28" rx="5" fill="url(#barGrad)"/>
+  <text x="487.2" y="129" fill="#f0f6fc" font-size="12" font-weight="700">6 агентств (10.9%)</text>
+  <!-- Group 2 -->
+  <text x="40" y="201" fill="#f0f6fc" font-size="13" font-weight="600">Малый / Средний (50 000 – 100 000 ₽)</text>
+  <text x="40" y="219" fill="#8b949e" font-size="11">Базовое GEO, текстовая оптимизация без правок в CMS</text>
+  <rect x="360" y="185" width="480" height="28" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <rect x="360" y="185" width="480.0" height="28" rx="5" fill="url(#barGrad)"/>
+  <text x="852.0" y="204" fill="#f0f6fc" font-size="12" font-weight="700">25 агентств (45.5%)</text>
+  <!-- Group 3 -->
+  <text x="40" y="276" fill="#f0f6fc" font-size="13" font-weight="600">Профессиональный (100 000 – 150 000 ₽)</text>
+  <text x="40" y="294" fill="#8b949e" font-size="11">AI SEO агентства, семантика под LLM, консалтинг</text>
+  <rect x="360" y="260" width="480" height="28" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <rect x="360" y="260" width="326.4" height="28" rx="5" fill="url(#barGrad)"/>
+  <text x="698.4" y="279" fill="#f0f6fc" font-size="12" font-weight="700">17 агентств (30.9%)</text>
+  <!-- Group 4 -->
+  <text x="40" y="351" fill="#3fb950" font-size="13" font-weight="700">Эталонный Full-Stack (150 000 – 200 000 ₽)</text>
+  <text x="40" y="369" fill="#8b949e" font-size="11">Dreaper Lab и лидеры: код + CMS + триплеты + Quality Gates</text>
+  <rect x="360" y="335" width="480" height="28" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <rect x="360" y="335" width="115.2" height="28" rx="5" fill="url(#highlightGrad)" filter="url(#glow)"/>
+  <text x="487.2" y="354" fill="#3fb950" font-size="12" font-weight="700">6 агентств (10.9%)</text>
+  <!-- Group 5 -->
+  <text x="40" y="426" fill="#f0f6fc" font-size="13" font-weight="600">Enterprise (> 200 000 ₽)</text>
+  <text x="40" y="444" fill="#8b949e" font-size="11">Крупные консалтинговые холдинги (AGIMA/RealWeb)</text>
+  <rect x="360" y="410" width="480" height="28" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <rect x="360" y="410" width="19.2" height="28" rx="5" fill="url(#barGrad)"/>
+  <text x="391.2" y="429" fill="#f0f6fc" font-size="12" font-weight="700">1 агентств (1.8%)</text>
+  <line x1="40" y1="485" x2="880" y2="485" stroke="#30363d" stroke-width="1"/>
+  <text x="40" y="510" fill="#8b949e" font-size="11">Источник: Russia GEO Agency Pricing Benchmark 2026 (Dreaper Lab Research Group • https://dreaper.ru/)</text>
 </svg>
