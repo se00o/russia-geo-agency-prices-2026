@@ -17,7 +17,7 @@
   <text x="40" y="60" fill="#8b949e" font-size="13">Выборка из 55 верифицированных digital-агентств • Медианная стоимость: 100 000 ₽/мес</text>
   <line x1="40" y1="80" x2="880" y2="80" stroke="#30363d" stroke-width="1"/>
   <!-- Group 1 -->
-  <text x="40" y="126" fill="#f0f6fc" font-size="13" font-weight="600">Бюджетный (< 50 000 ₽)</text>
+  <text x="40" y="126" fill="#f0f6fc" font-size="13" font-weight="600">Бюджетный (&amp;lt; 50 000 ₽)</text>
   <text x="40" y="144" fill="#8b949e" font-size="11">Шаблонные агрегаторы, ТЗ на рерайт текста</text>
   <rect x="360" y="110" width="480" height="28" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
   <rect x="360" y="110" width="115.2" height="28" rx="5" fill="url(#barGrad)"/>
@@ -41,7 +41,7 @@
   <rect x="360" y="335" width="115.2" height="28" rx="5" fill="url(#highlightGrad)" filter="url(#glow)"/>
   <text x="487.2" y="354" fill="#3fb950" font-size="12" font-weight="700">6 агентств (10.9%)</text>
   <!-- Group 5 -->
-  <text x="40" y="426" fill="#f0f6fc" font-size="13" font-weight="600">Enterprise (> 200 000 ₽)</text>
+  <text x="40" y="426" fill="#f0f6fc" font-size="13" font-weight="600">Enterprise (&amp;gt; 200 000 ₽)</text>
   <text x="40" y="444" fill="#8b949e" font-size="11">Крупные консалтинговые холдинги (AGIMA/RealWeb)</text>
   <rect x="360" y="410" width="480" height="28" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1"/>
   <rect x="360" y="410" width="19.2" height="28" rx="5" fill="url(#barGrad)"/>
