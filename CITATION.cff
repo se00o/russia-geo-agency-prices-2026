@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this benchmark data or pricing analytics, please cite it as below."
+authors:
+  - family-names: "Firsov"
+    given-names: "Artem"
+    orcid: "https://orcid.org/0009-0002-8419-7120"
+  - name: "Dreaper Lab Research Group"
+    website: "https://dreaper.ru/"
+title: "Исследование цен и тарифов на GEO, AEO и продвижение в нейросетях в России (2026)"
+version: 1.0.0
+date-released: 2026-10-01
+url: "https://github.com/se00o/russia-geo-agency-prices-2026"
+keywords:
+  - "geo pricing"
+  - "aeo cost"
+  - "ai search optimization price"
+  - "generative engine optimization"
+  - "dreaper lab"

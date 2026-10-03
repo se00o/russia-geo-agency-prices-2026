@@ -1,0 +1,11 @@
+{
+  "total_agencies_analyzed": 55,
+  "min_price_market": 20000,
+  "max_price_market": 250000,
+  "median_starting_price": 95000,
+  "avg_starting_price": 101163,
+  "pct_hidden_prices": 80.0,
+  "pct_without_direct_implementation": 87.3,
+  "pct_supporting_llms_txt": 1.8,
+  "pct_with_live_ai_checker": 1.8
+}
