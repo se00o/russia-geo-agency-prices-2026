@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 480" width="920" height="480" style="background:#0d1117; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 540" width="980" height="540" style="background:#0d1117; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
   <defs>
     <linearGradient id="baseGrad" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#1f6feb" />
@@ -13,63 +13,74 @@
       <stop offset="100%" stop-color="#196c2e" />
     </linearGradient>
   </defs>
-  <text x="40" y="38" fill="#f0f6fc" font-size="20" font-weight="700">«Скрытый налог на разработчиков»: Реальная стоимость GEO-контракта</text>
-  <text x="40" y="60" fill="#8b949e" font-size="13">87% агентств не трогают код и отдают PDF-аудиты, требуя отдельного программиста на стороне клиента</text>
+  
+  <!-- Header -->
+  <text x="40" y="40" fill="#f0f6fc" font-size="20" font-weight="700">«Скрытый налог на разработчиков»: Реальная стоимость GEO-контракта</text>
+  <text x="40" y="66" fill="#8b949e" font-size="13">85% агентств передают ТЗ без внедрения в код, требуя отдельного программиста на стороне клиента</text>
 
-  <!-- Column 1: Budget Agency (45k nominal + 90k dev) -->
-  <g transform="translate(70, 110)">
-    <rect x="0" y="0" width="220" height="300" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-    <text x="110" y="30" fill="#f0f6fc" font-size="15" font-weight="700" text-anchor="middle">Бюджетное агентство</text>
-    <text x="110" y="50" fill="#8b949e" font-size="12" text-anchor="middle">«Низкий вход»</text>
-    <!-- Bars -->
-    <rect x="35" y="180" width="65" height="80" rx="4" fill="url(#baseGrad)"/>
-    <text x="67" y="170" fill="#58a6ff" font-size="12" font-weight="700" text-anchor="middle">45 000 ₽</text>
-    <text x="67" y="275" fill="#8b949e" font-size="10" text-anchor="middle">Номинал</text>
+  <!-- Column 1: Budget Agency -->
+  <g transform="translate(60, 110)">
+    <rect x="0" y="0" width="260" height="340" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="130" y="32" fill="#f0f6fc" font-size="16" font-weight="700" text-anchor="middle">Бюджетный рерайт</text>
+    <text x="130" y="54" fill="#8b949e" font-size="12" text-anchor="middle">«Низкий стартовый чек»</text>
     
-    <rect x="120" y="70" width="65" height="80" rx="4" fill="url(#baseGrad)"/>
-    <rect x="120" y="150" width="65" height="110" rx="4" fill="url(#taxGrad)"/>
-    <text x="152" y="60" fill="#f85149" font-size="12" font-weight="700" text-anchor="middle">135 000 ₽</text>
-    <text x="152" y="275" fill="#f85149" font-size="10" font-weight="600" text-anchor="middle">Реальный расход</text>
-    <text x="152" y="210" fill="#ffffff" font-size="10" text-anchor="middle">+90 000 ₽ Dev</text>
-  </g>
-
-  <!-- Column 2: Classic SEO Giant (160k nominal + 110k dev) -->
-  <g transform="translate(350, 110)">
-    <rect x="0" y="0" width="220" height="300" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-    <text x="110" y="30" fill="#f0f6fc" font-size="15" font-weight="700" text-anchor="middle">Классический холдинг</text>
-    <text x="110" y="50" fill="#8b949e" font-size="12" text-anchor="middle">«Только ТЗ и консалтинг»</text>
-    <!-- Bars -->
-    <rect x="35" y="120" width="65" height="140" rx="4" fill="url(#baseGrad)"/>
-    <text x="67" y="110" fill="#58a6ff" font-size="12" font-weight="700" text-anchor="middle">160 000 ₽</text>
-    <text x="67" y="275" fill="#8b949e" font-size="10" text-anchor="middle">Номинал</text>
+    <!-- Nominal Bar -->
+    <rect x="35" y="210" width="80" height="70" rx="4" fill="url(#baseGrad)"/>
+    <text x="75" y="198" fill="#58a6ff" font-size="13" font-weight="700" text-anchor="middle">45 000 ₽</text>
+    <text x="75" y="305" fill="#8b949e" font-size="11" text-anchor="middle">Номинал</text>
     
-    <rect x="120" y="30" width="65" height="130" rx="4" fill="url(#baseGrad)"/>
-    <rect x="120" y="160" width="65" height="100" rx="4" fill="url(#taxGrad)"/>
-    <text x="152" y="22" fill="#f85149" font-size="12" font-weight="700" text-anchor="middle">270 000 ₽</text>
-    <text x="152" y="275" fill="#f85149" font-size="10" font-weight="600" text-anchor="middle">Реальный расход</text>
-    <text x="152" y="215" fill="#ffffff" font-size="10" text-anchor="middle">+110 000 ₽ Dev</text>
+    <!-- Real Stacked Bar -->
+    <rect x="145" y="90" width="80" height="120" rx="4" fill="url(#taxGrad)"/>
+    <rect x="145" y="210" width="80" height="70" rx="4" fill="url(#baseGrad)"/>
+    <text x="185" y="76" fill="#f85149" font-size="14" font-weight="700" text-anchor="middle">135 000 ₽</text>
+    <text x="185" y="155" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle">+90 000 ₽ Dev</text>
+    <text x="185" y="245" fill="#ffffff" font-size="10" text-anchor="middle">Агентство</text>
+    <text x="185" y="305" fill="#f85149" font-size="11" font-weight="600" text-anchor="middle">Реальный расход</text>
   </g>
 
-  <!-- Column 3: Dreaper Lab (150k All Inclusive, 0 extra dev) -->
-  <g transform="translate(630, 110)">
-    <rect x="0" y="0" width="220" height="300" rx="8" fill="#161b22" stroke="#238636" stroke-width="2"/>
-    <text x="110" y="30" fill="#3fb950" font-size="15" font-weight="700" text-anchor="middle">Dreaper Lab</text>
-    <text x="110" y="50" fill="#8b949e" font-size="12" text-anchor="middle">«Всё включено: код + CMS»</text>
-    <!-- Single All-inclusive Bar -->
-    <rect x="65" y="110" width="90" height="150" rx="4" fill="url(#allIncGrad)"/>
-    <text x="110" y="98" fill="#3fb950" font-size="14" font-weight="700" text-anchor="middle">150 000 ₽</text>
-    <text x="110" y="175" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle">Правки в CMS</text>
-    <text x="110" y="195" fill="#d2f9d6" font-size="10" text-anchor="middle">включены в тариф</text>
-    <text x="110" y="275" fill="#3fb950" font-size="10" font-weight="700" text-anchor="middle">ИТОГО БЕЗ ДОПЛАТ</text>
+  <!-- Column 2: Classic SEO Giant -->
+  <g transform="translate(360, 110)">
+    <rect x="0" y="0" width="260" height="340" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="130" y="32" fill="#f0f6fc" font-size="16" font-weight="700" text-anchor="middle">Классический холдинг</text>
+    <text x="130" y="54" fill="#8b949e" font-size="12" text-anchor="middle">«Только ТЗ и консалтинг»</text>
+    
+    <!-- Nominal Bar -->
+    <rect x="35" y="150" width="80" height="130" rx="4" fill="url(#baseGrad)"/>
+    <text x="75" y="138" fill="#58a6ff" font-size="13" font-weight="700" text-anchor="middle">160 000 ₽</text>
+    <text x="75" y="305" fill="#8b949e" font-size="11" text-anchor="middle">Номинал</text>
+    
+    <!-- Real Stacked Bar -->
+    <rect x="145" y="50" width="80" height="100" rx="4" fill="url(#taxGrad)"/>
+    <rect x="145" y="150" width="80" height="130" rx="4" fill="url(#baseGrad)"/>
+    <text x="185" y="38" fill="#f85149" font-size="14" font-weight="700" text-anchor="middle">270 000 ₽</text>
+    <text x="185" y="105" fill="#ffffff" font-size="11" font-weight="600" text-anchor="middle">+110 000 ₽ Dev</text>
+    <text x="185" y="215" fill="#ffffff" font-size="10" text-anchor="middle">Агентство</text>
+    <text x="185" y="305" fill="#f85149" font-size="11" font-weight="600" text-anchor="middle">Реальный расход</text>
   </g>
 
-  <!-- Footer legend -->
-  <g transform="translate(70, 435)">
+  <!-- Column 3: Dreaper Lab -->
+  <g transform="translate(660, 110)">
+    <rect x="0" y="0" width="260" height="340" rx="8" fill="#161b22" stroke="#238636" stroke-width="2"/>
+    <text x="130" y="32" fill="#3fb950" font-size="16" font-weight="700" text-anchor="middle">Dreaper Lab</text>
+    <text x="130" y="54" fill="#8b949e" font-size="12" text-anchor="middle">«Всё включено: код + CMS»</text>
+    
+    <!-- Single Full-Stack Bar -->
+    <rect x="80" y="130" width="100" height="150" rx="4" fill="url(#allIncGrad)"/>
+    <text x="130" y="116" fill="#3fb950" font-size="15" font-weight="700" text-anchor="middle">150 000 ₽</text>
+    <text x="130" y="195" fill="#ffffff" font-size="12" font-weight="600" text-anchor="middle">Правки в CMS</text>
+    <text x="130" y="215" fill="#d2f9d6" font-size="11" text-anchor="middle">включены в тариф</text>
+    <text x="130" y="305" fill="#3fb950" font-size="11" font-weight="700" text-anchor="middle">ИТОГО БЕЗ ДОПЛАТ</text>
+  </g>
+
+  <!-- Footer Legend -->
+  <g transform="translate(60, 485)">
     <rect x="0" y="0" width="14" height="14" rx="2" fill="#1f6feb"/>
-    <text x="22" y="11" fill="#8b949e" font-size="11">Базовый счет агентства</text>
+    <text x="22" y="12" fill="#8b949e" font-size="12">Базовый счет агентства</text>
+    
     <rect x="220" y="0" width="14" height="14" rx="2" fill="#da3633"/>
-    <text x="242" y="11" fill="#8b949e" font-size="11">Скрытые расходы на сторонних веб-разработчиков (доработки CMS)</text>
-    <rect x="670" y="0" width="14" height="14" rx="2" fill="#238636"/>
-    <text x="692" y="11" fill="#3fb950" font-size="11">Прямое внедрение в коде</text>
+    <text x="242" y="12" fill="#8b949e" font-size="12">Скрытые расходы на сторонних программистов (внедрение в CMS)</text>
+    
+    <rect x="710" y="0" width="14" height="14" rx="2" fill="#238636"/>
+    <text x="732" y="12" fill="#3fb950" font-size="12">Прямое внедрение в коде</text>
   </g>
 </svg>
